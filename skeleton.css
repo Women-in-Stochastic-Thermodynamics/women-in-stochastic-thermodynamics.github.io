@@ -187,6 +187,21 @@ form {
   margin-bottom: 2.5rem; }
 
 
+.highlight {
+  width: 80%;
+  padding: 50px;
+  margin: 20px auto;
+  border: 5px black;
+  border-radius: 25px;
+  background-color: #cff4fc;
+
+}
+
+.highlight a {
+    color: #055160;
+}
+
+
 /* Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
